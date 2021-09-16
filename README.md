@@ -19,4 +19,6 @@ Installation
 
 Install the dependenacies in requirements.txt
 
-pip install -i https://test.pypi.org/simple/ AB-tests==0.0.1
+pip install -i setup.py
+
+git clone https://github.com/smegnshd/AdSmart_campaign/
